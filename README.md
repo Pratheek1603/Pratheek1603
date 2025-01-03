@@ -35,7 +35,7 @@
   - ⚡ Strong interest in **Data Structures and Algorithms**.
   - 📫 How to reach me: <a href = "mailto:ponnalaprateehk@gmail.com"><img src = "https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt = "Gmail Badge" width = "60px"></a>
   - 💙 Currently a student honing my coding skills
-  - 😄 I possess introductory skills in **AI/ML** and **Game Development**.
+  - 😄 I possess introductory skills in **AI/ML** and **Android App development** .
   ---
 
 ---
