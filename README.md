@@ -70,8 +70,8 @@ rialui/materialui-original.svg" width = "60"> &nbsp;
   ---
   
  <p align="center"> 
-   Visitor Count
----
+ 
+
 
 <h3 align="center">👀</h3>
 
