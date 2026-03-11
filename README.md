@@ -31,11 +31,11 @@
   
   ### 👨‍💻 About Me :
   - I am an Aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - 🌱 Ask me anything about **Web Development**
-  - ⚡ Strong interest in **Data Structures and Algorithms**.
-  - 📫 How to reach me: <a href = "mailto:ponnalaprateehk@gmail.com"><img src = "https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt = "Gmail Badge" width = "60px"></a>
-  - 💙 Currently a student honing my coding skills
-  - 😄 I possess introductory skills in **AI/ML** and **Android App development** .
+  - Ask me anything about **Web Development**
+  - Strong interest in **Data Structures and Algorithms**.
+     How to reach me: <a href = "mailto:ponnalaprateehk@gmail.com"><img src = "https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt = "Gmail Badge" width = "60px"></a>
+  -  Currently a student honing my coding skills 💙
+  - I possess introductory skills in **AI/ML** and **Android App development** .
   ---
 
 ---
