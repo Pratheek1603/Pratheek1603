@@ -26,6 +26,7 @@
     <img src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width = 200>
     <img src = "https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width = 200>
      <img src = "https://assets.leetcode.com/static_assets/marketing/365_new.gif" width = 200>
+       <img src = "https://assets.leetcode.com/static_assets/others/200.gif" width = 200>
   </div>
   
   ---
