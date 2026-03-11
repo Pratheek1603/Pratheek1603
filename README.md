@@ -72,7 +72,8 @@ rialui/materialui-original.svg" width = "60"> &nbsp;
  <p align="center"> 
    Visitor Count
  <br/>
-  <img src="https://profile-counter.glitch.me/[Pratheek1603]/count.svg" />
+  <img src="https://komarev.com/ghpvc/Pratheek1603" />
+    
 </p>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
