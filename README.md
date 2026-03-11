@@ -71,9 +71,12 @@ rialui/materialui-original.svg" width = "60"> &nbsp;
   
  <p align="center"> 
    Visitor Count
- <br/>
-  <img src="https://komarev.com/ghpvc/Pratheek1603" />
- 
+---
+
+<h3 align="center">👀 Profile Views</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pratheek1603&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="profile views"/>
 </p>
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
